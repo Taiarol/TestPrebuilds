@@ -1,5 +1,5 @@
 tasks:
   - before: |
-     echo sleep 5
+    sleep 5
   - init: |
-      echo sleep 500
+    sleep 500
