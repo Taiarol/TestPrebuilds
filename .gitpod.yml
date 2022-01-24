@@ -1,0 +1,5 @@
+tasks:
+  - before: |
+     echo 'TODO: before'
+  - init: |
+      echo 'TODO: build project'
