@@ -1,5 +1,2 @@
 tasks:
-  - before: |
-    sleep 5
-  - init: |
-    sleep 500
+  - init: sleep 500
